@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Alejandro Suescún Dueñas AKA "ASD gaming"</h1>
-<h3 align="center">A student who loves programming, videogames and their modding.</h3>
+<h1>Hi 👋, I'm Alejandro Suescún Dueñas AKA "ASD gaming"</h1>
+I'm a student who loves programming, videogames and their modding.
 
+<h3 align="left">Some Facts:</h3>
+
+- 📫 You can contact me **via email: alejsuescun@gmail.com or via Discord: asd.gaming**
+- 🗣 I speak **Spanish(Native) and English(Beginner)**
 - 🔭 I’m currently working on [My Route Safe](https://github.com/alej-suescun/my-route-safe)
-
 - 🌱 I’m currently learning **C++, Kotlin and Lua.**
 
-- 📫 How to contact me? **via email: alejsuescun@gmail.com or via Discord: asd.gaming**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://twitter.com/@asd-gaming-tf2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@asd-gaming-tf2" height="30" width="40" /></a>
+<a href="https://x.com/asd_gaming_tf2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asd_gaming_tf2" height="30" width="40" /></a>
 <a href="https://discord.gg/Jw627rbQNN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jw627rbQNN" height="30" width="40" /></a>
 </p>
 

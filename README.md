@@ -8,11 +8,12 @@ I'm a student who loves programming, videogames and their modding.
 - 🔭 I’m currently working on [My Route Safe](https://github.com/alej-suescun/my-route-safe)
 - 🌱 I’m currently learning **C++, Kotlin and Lua.**
 
-
 ## Social Media:
 <p align="left">
-<a href="https://x.com/asd_gaming_tf2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asd_gaming_tf2" height="30" width="40" /></a>
-<a href="https://discord.gg/Jw627rbQNN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jw627rbQNN" height="30" width="40" /></a>
+<a href="https://x.com/asd_gaming_tf2" target="blank"><img align="center" src="https://github.com/user-attachments/assets/63ed98e2-2082-4564-8aa1-b4e20c692157"alt="asd_gaming_tf2" height="40" width="30"/></a>
+<a href="https://discord.gg/Jw627rbQNN" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4134c7d6-f08d-4e24-8f69-9a5c26ce1c49" alt="Jw627rbQNN" height="40" width="40"/></a>
+<a href="https://www.instagram.com/asd.gaming.tf/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8126adef-ef1a-4138-b827-35167aeab69c" height="40" width="40"/></a>
+<a href="https://www.youtube.com/@asd.gaming." target="blank"><img align="center" src="https://github.com/user-attachments/assets/c914e440-a76f-4c71-9ed3-e47d0fac0c4b" height="40" width="50"/></a>
 </p>
 
 ## Languages and Tools:
@@ -33,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

@@ -6,9 +6,9 @@ I'm a guy who loves programming and video games, I have worked in some mods for 
 - <a href="https://discord.gg/xQ2HrwfqA2" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4134c7d6-f08d-4e24-8f69-9a5c26ce1c49" height="20"></a> via Discord: **asd.gaming**
 
 ## Some facts:
-- 🗣 I speak **Spanish(Native) and English(Beginner)**
-- :colombia: ads
-- 🔭 I’m currently working on [ASD-CFG](https://github.com/alej-suescun/ASD-CFG)
+- 🗣 I speak **Spanish(Native) and English(Beginner)**.
+- <a href="https://colombia.co" target="blank"><img align="center" src="https://github.com/user-attachments/assets/49d6de74-7890-4bf8-ad58-938e99ad9bfa" height="20"></a> I am from Colombia.
+- 🔭 I’m currently working on [ASD-CFG](https://github.com/alej-suescun/ASD-CFG).
 - 🌱 I’m currently learning **C++, HTML, CSS and Lua.**
 
 ## Social Media:

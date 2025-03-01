@@ -14,7 +14,6 @@ I'm a guy who loves programming and video games, I have worked in some mods for 
 ## Social Media:
 <p align="left">
 <a href="https://x.com/asd__gaming" target="blank"><img align="center" src="https://github.com/user-attachments/assets/63ed98e2-2082-4564-8aa1-b4e20c692157"alt="asd__gaming" height="40" width="30"/></a>
-<a href="https://discord.gg/xQ2HrwfqA2" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e1356bbf-cc3e-45f4-9f56-0a4c521667d3" alt="Jw627rbQNN" height="40" /></a>
 <a href="https://www.instagram.com/asd.gaming.tf/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8126adef-ef1a-4138-b827-35167aeab69c" height="40" width="40"/></a>
 <a href="https://www.youtube.com/@asd.gaming." target="blank"><img align="center" src="https://github.com/user-attachments/assets/c914e440-a76f-4c71-9ed3-e47d0fac0c4b" height="40" /></a>
 </p>

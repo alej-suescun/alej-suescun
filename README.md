@@ -1,39 +1,40 @@
 <h1 align="center">Hi There 👋, I'm Alejandro Suescún AKA "ASD gaming"</h1>
 I'm a guy who loves programming and video games, I have worked in some mods for Left 4 Dead 2, Garry's mod and Team Fortress 2 where you can find them in my workshop in steam or in my gamebanana. Sometimes I upload the source code of them in my GitHub (Where you are reading this).
-<p align="center">
-    <a href="https://x.com/asd__gaming" target="blank">
-        <img align="center" src="https://github.com/user-attachments/assets/aa134a1a-8385-4058-bd41-6a2be2aece4b" alt="asd__gaming" height="35"/></a>
-    <a href="https://www.instagram.com/asd.gaming.tf/" target="blank">
-        <img align="center" src="https://github.com/user-attachments/assets/9655a5f0-68ca-4c31-ae76-66ea1f895a8b" height="35"/></a>
-    <a href="https://www.youtube.com/@asd.gaming." target="blank">
-        <img align="center" src="https://github.com/user-attachments/assets/2fd5d2eb-ef3b-49e8-a7c9-d64c05f1023b" height="35"/></a>
-</p>
 
-## Where You Can Contact me?:
-- <a href="mailto:alejsuescun@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/5b7ca3d9-e64d-4fd8-8874-d35ff93956f6" height="20"></a> via email: alejsuescun@gmail.com
-- <a href="https://discord.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4134c7d6-f08d-4e24-8f69-9a5c26ce1c49" height="20"></a> via Discord: **asd.gaming**
+<div align="center">
+
+<a href="https://x.com/asd__gaming" target="blank">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
+<a href="https://www.instagram.com/asd.gaming.tf/" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.youtube.com/@asd.gaming." target="blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+    
+</div>
+
+
+
+
 
 ## About Me:
 - 💬 I speak **Spanish(Native)** and **English(Beginner)**.
 - 🚀 Learning **Full Stack** Development
-- 🤓 Working on [ASD-CFG](https://github.com/alej-suescun/ASD-CFG)
-- 🎥 I **share** mods, gameplays, projects, and more on **[YouTube](https://www.youtube.com/@asd.gaming.)**
+- 🤓 **Working** on **[ASD-CFG](https://github.com/alej-suescun/ASD-CFG)**
+- 🎥 I **share** mods, gameplays, projects, and more on <a href="https://www.youtube.com/@asd.gaming." target="blank">**YouTube**</a>
+- 📫 You can **contact me** via email: <a href="mailto:alejsuescun@gmail.com" target="blank">**alejsuescun@gmail.com**</a> and via Discord: **@asd.gaming**
 
 ## Languages:
-<p align="left">
-    <img src="https://github.com/user-attachments/assets/2326c758-f405-4d13-916b-10ecf189bf1d" alt="HTML" width="30">
-    <img src="https://github.com/user-attachments/assets/2012a492-4cb8-4427-a11e-430f2a03e8da" alt="CSS" width="30">
-    <img src="https://github.com/user-attachments/assets/e9717839-ae7b-469d-a494-f12ca2ae4214" alt="C++" width="30">
-    <img src="https://github.com/user-attachments/assets/a6fe328e-d0a3-4d2d-8060-3a88603d977a" alt="Kotlin" width="30">
-    <img src="https://github.com/user-attachments/assets/3291dc6f-243a-4c9c-8de0-6e3d34259382" alt="Lua" width="30">
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## Tools:
-<p align="left" justify="center">
-    <img src="https://github.com/user-attachments/assets/c1b3d7ef-2789-4d7b-86a3-6e83cbc93c5b" alt="Blender" width="30">
-    <img src="https://github.com/user-attachments/assets/909e8db9-0d3f-44ed-96b7-c2caa7144fba" alt="Git" width="30">
-</p>
-
+## Tools & Technologies:
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 <!--
 
 

@@ -1,5 +1,19 @@
-# Hi There, I'm Alejandro Suescún Dueñas AKA "ASD gaming"
+<h1 align="center">Hi There 👋, I'm Alejandro Suescún AKA "ASD gaming"</h1>
 I'm a guy who loves programming and video games, I have worked in some mods for Left 4 Dead 2, Garry's mod and Team Fortress 2 where you can find them in my workshop in steam or in my gamebanana. Sometimes I upload the source code of them in my GitHub (Where you are reading this).
+<p align="center">
+    <a href="https://x.com/asd__gaming" target="blank">
+        <img align="center" src="https://github.com/user-attachments/assets/aa134a1a-8385-4058-bd41-6a2be2aece4b" alt="asd__gaming" height="35"/>
+    </a>
+    <a href="https://www.instagram.com/asd.gaming.tf/" target="blank">
+        <img align="center" src="https://github.com/user-attachments/assets/9655a5f0-68ca-4c31-ae76-66ea1f895a8b" height="35"/>
+    </a>
+    <a href="https://www.youtube.com/@asd.gaming." target="blank">
+        <img align="center" src="https://github.com/user-attachments/assets/2fd5d2eb-ef3b-49e8-a7c9-d64c05f1023b" height="35" />
+    </a>
+</p>
+
+
+
 
 ## Where You Can Contact me?:
 - <a href="mailto:alejsuescun@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/5b7ca3d9-e64d-4fd8-8874-d35ff93956f6" height="20"></a> via email: alejsuescun@gmail.com
@@ -10,13 +24,6 @@ I'm a guy who loves programming and video games, I have worked in some mods for 
 - <a href="https://colombia.co" target="blank"><img align="center" src="https://github.com/user-attachments/assets/49d6de74-7890-4bf8-ad58-938e99ad9bfa" height="20"></a> I am from Colombia.
 - 🔭 I’m currently working on [ASD-CFG](https://github.com/alej-suescun/ASD-CFG).
 - 🌱 I’m currently learning **C++, HTML, CSS and Lua.**
-
-## Social Media:
-<p align="left">
-<a href="https://x.com/asd__gaming" target="blank"><img align="center" src="https://github.com/user-attachments/assets/63ed98e2-2082-4564-8aa1-b4e20c692157"alt="asd__gaming" height="40" width="30"/></a>
-<a href="https://www.instagram.com/asd.gaming.tf/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8126adef-ef1a-4138-b827-35167aeab69c" height="40" width="40"/></a>
-<a href="https://www.youtube.com/@asd.gaming." target="blank"><img align="center" src="https://github.com/user-attachments/assets/c914e440-a76f-4c71-9ed3-e47d0fac0c4b" height="40" /></a>
-</p>
 
 ## Languages:
 <p align="left">

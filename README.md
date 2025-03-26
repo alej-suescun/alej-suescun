@@ -18,12 +18,24 @@ I'm a guy who loves programming and video games, I have worked in some mods for 
 <a href="https://www.youtube.com/@asd.gaming." target="blank"><img align="center" src="https://github.com/user-attachments/assets/c914e440-a76f-4c71-9ed3-e47d0fac0c4b" height="40" /></a>
 </p>
 
-## Languages and Tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a> <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/dffa4b1c-6929-41a0-998e-a2dc358ad31c" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> </p>
+## Languages:
+<p align="left">
+    <img src="https://github.com/user-attachments/assets/2326c758-f405-4d13-916b-10ecf189bf1d" alt="HTML" width="30">
+    <img src="https://github.com/user-attachments/assets/2012a492-4cb8-4427-a11e-430f2a03e8da" alt="CSS" width="30">
+    <img src="https://github.com/user-attachments/assets/e9717839-ae7b-469d-a494-f12ca2ae4214" alt="C++" width="30">
+    <img src="https://github.com/user-attachments/assets/a6fe328e-d0a3-4d2d-8060-3a88603d977a" alt="Kotlin" width="30">
+    <img src="https://github.com/user-attachments/assets/3291dc6f-243a-4c9c-8de0-6e3d34259382" alt="Lua" width="30">
+</p>
 
-
+## Tools:
+<p align="left" justify="center">
+    <img src="https://github.com/user-attachments/assets/c1b3d7ef-2789-4d7b-86a3-6e83cbc93c5b" alt="Blender" width="30">
+    <img src="https://github.com/user-attachments/assets/909e8db9-0d3f-44ed-96b7-c2caa7144fba" alt="Git" width="30">
+</p>
 
 <!--
+
+
 **alej-suescun/alej-suescun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -1,11 +1,11 @@
-<h1 align="center">Hi There 👋, I'm Alejandro Suescún AKA "ASD gaming"</h1>
+<h1 align="center">Hi There 👋, I'm Alejandro Suescún AKA "ASD++"</h1>
 I'm a guy who loves programming and video games, I have worked in some mods for Left 4 Dead 2, Garry's mod and Team Fortress 2 where you can find them in my workshop in steam or in my gamebanana. Sometimes I upload the source code of them in my GitHub (Where you are reading this).
 
 <div align="center">
 
-<a href="https://x.com/asd__gaming" target="blank">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
-<a href="https://www.instagram.com/asd.gaming.tf/" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.youtube.com/@asd.gaming." target="blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://twitter.com/asd_cpp" target="blank">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
+<a href="https://www.instagram.com/asd.cpp" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://youtube.com/@asd-cpp" target="blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
     
 </div>
 
@@ -17,7 +17,7 @@ I'm a guy who loves programming and video games, I have worked in some mods for 
 - 💬 I speak **Spanish(Native)** and **English(Beginner)**.
 - 🚀 Learning **Full Stack** Development
 - 🤓 **Working** on **[ASD-CFG](https://github.com/alej-suescun/ASD-CFG)**
-- 🎥 I **share** mods, gameplays, projects, and more on <a href="https://www.youtube.com/@asd.gaming." target="blank">**YouTube**</a>
+- 🎥 I **share** mods, gameplays, projects, and more on <a href="https://youtube.com/@asd-cpp" target="blank">**YouTube**</a>
 - 📫 You can **contact me** via email: <a href="mailto:alejsuescun@gmail.com" target="blank">**alejsuescun@gmail.com**</a> and via Discord: **@asd.gaming**
 
 ## Languages:

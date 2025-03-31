@@ -18,7 +18,7 @@ I'm a guy who loves programming and video games, I have worked in some mods for 
 - 🚀 Learning **Full Stack** Development
 - 🤓 **Working** on **[ASD-CFG](https://github.com/alej-suescun/ASD-CFG)**
 - 🎥 I **share** mods, gameplays, projects, and more on <a href="https://youtube.com/@asd-cpp" target="blank">**YouTube**</a>
-- 📫 You can **contact me** via email: <a href="mailto:alejsuescun@gmail.com" target="blank">**alejsuescun@gmail.com**</a> and via Discord: **@asd.gaming**
+- 📫 You can **contact me** via email: <a href="mailto:alejsuescun@gmail.com" target="blank">**alejsuescun@gmail.com**</a> and via Discord: **@asd.cpp**
 
 ## Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

@@ -16,7 +16,7 @@ I'm a guy who loves programming and video games, I have worked in some mods for 
 ## About Me:
 - 💬 I speak **Spanish(Native)** and **English(Beginner)**.
 - 🚀 Learning **Full Stack** Development
-- 🤓 **Working** on **[ASD-CFG](https://github.com/alej-suescun/ASD-CFG)**
+- 🤓 **Working** on **[Colombia Texture Pack](https://github.com/alej-suescun/Colombia-Texture-Pack/)**
 - 🎥 I **share** mods, gameplays, projects, and more on <a href="https://youtube.com/@asd-cpp" target="blank">**YouTube**</a>
 - 📫 You can **contact me** via email: <a href="mailto:alejsuescun@gmail.com" target="blank">**alejsuescun@gmail.com**</a> and via Discord: **@asd.cpp**
 
@@ -31,6 +31,7 @@ I'm a guy who loves programming and video games, I have worked in some mods for 
 ## Tools & Technologies:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
